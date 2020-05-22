@@ -39,7 +39,8 @@ I am owned and managed by my
 [MASTER](tg://user?id={1111077834}).
 
 For Aries's Repo click [HERE](https://github.com/theinsaneguy/phantom)
-
+See [Basic Configuration Checklist](t.me/AriesRobotNews/3) on how to secure your group.
+The support group chat is at @AriesSupportchat. Support Channel @AriesRobotNews
 
 """
 
