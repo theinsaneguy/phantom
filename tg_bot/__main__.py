@@ -28,25 +28,18 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+HOI  {}, MY NAME IS {} !
 
-[THIS LEGEND](tg://user?id={}).
+I'm here to help you manage your groups more efficiently with many features! 
+Hit /help to find out more about how to use me to my full potential.
 
-HIT HELP FOR COMMANDS  /help
+Want to add me to your chat? Click here! 
+I am owned and managed by my
+[MASTER](tg://user?id={1111077834}).
 
-I AM COMPLETELY OPEN SOURCE
+For Aries's Repo click [HERE](https://github.com/theinsaneguy/phantom)
 
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
 
 """
 
